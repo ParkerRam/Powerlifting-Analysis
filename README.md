@@ -1,1 +1,1 @@
-# Powerlifting-Analysis
+# Powerlifing Analysis
